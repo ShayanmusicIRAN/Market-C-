@@ -1,0 +1,31 @@
+c:\users\user\documents\visual studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\bin\Debug\ShayanDarabian - Market Project.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian - Market Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.FormLogin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian - Market Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\bin\Debug\ShayanDarabian - Market Project.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\bin\Debug\ShayanDarabian - Market Project.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian - Market Project.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian - Market Project.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.Main.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.frmKala.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.frmCustomer.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.frmFrosh.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.ChangeUP.resources
+C:\Users\User\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\bin\Debug\ShayanDarabian - Market Project.exe.config
+C:\Users\User\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian - Market Project.exe
+C:\Users\User\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian - Market Project.pdb
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\bin\Debug\ShayanDarabian - Market Project.exe.config
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\bin\Debug\ShayanDarabian - Market Project.exe
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\bin\Debug\ShayanDarabian - Market Project.pdb
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian - Market Project.csprojResolveAssemblyReference.cache
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.ChangeUP.resources
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.frmCustomer.resources
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.frmFrosh.resources
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.frmKala.resources
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.FormLogin.resources
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.Main.resources
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian___Market_Project.Properties.Resources.resources
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian - Market Project.csproj.GenerateResource.Cache
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian - Market Project.exe
+C:\Users\Shayan\Desktop\ShayanDarabian - Market Project\ShayanDarabian - Market Project\obj\Debug\ShayanDarabian - Market Project.pdb

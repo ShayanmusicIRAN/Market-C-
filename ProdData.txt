@@ -1,0 +1,16 @@
+ Code : 111
+ Name : sh
+ Price : 100
+ Producer : asus
+ Kind : خوراکی
+ EXdate : 1402-05-01
+--------------
+
+ Code : 222
+ Name : شای
+ Price : 1000
+ Producer : اسی
+ Kind : نوشیدنی
+ EXdate : 1402-05-06
+--------------
+

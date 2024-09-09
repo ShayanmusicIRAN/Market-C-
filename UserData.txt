@@ -1,0 +1,14 @@
+ Code : 111
+ Name : shp
+ Phone : 915
+ Email : shp@gmail.com
+ Address : sas - asha- 17
+--------------
+
+ Code : 222
+ Name : شای
+ Phone : 937
+ Email : شسا@
+ Address : سیسی - تاتتا - 17
+--------------
+
